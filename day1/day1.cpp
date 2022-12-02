@@ -18,7 +18,6 @@ int main()
 
         if(line == "\r")
         {
-            // std::cout<<"New elf..."<<std::endl;
             // New Elf.
             for(int i=0; i<3; i++)
             {
