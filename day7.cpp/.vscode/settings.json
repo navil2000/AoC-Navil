@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.cpp": "cpp",
+        "xstring": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "xtree": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "format": "cpp"
+    }
+}
